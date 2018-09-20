@@ -1,0 +1,31 @@
+body{
+	font-family:Comic Sans MS;
+}
+			
+.button1{
+	background-color: #EE8130;
+	font-size: 25px;
+	width: 140px;
+	height: 45px;
+	border-radius: 80px;
+
+	
+}
+.button2{
+	background-color: #6390F0;
+	font-size: 25px;
+	width: 140px;
+	height: 45px;
+	border-radius: 80px;
+}
+.button3{
+	background-color: #7AC74C;
+	font-size: 25px;
+	width: 140px;
+	height: 45px;
+	border-radius: 80px;
+}
+
+
+
+	
