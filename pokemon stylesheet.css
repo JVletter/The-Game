@@ -1,5 +1,6 @@
 body{
 	font-family:Comic Sans MS;
+	font-size: 24px
 }
 			
 .button1{
@@ -26,6 +27,52 @@ body{
 	border-radius: 80px;
 }
 
+.button4{
+	background-color: #00FF0A;
+	font-size: 25px;
+	width: 240px;
+	height: 45px;
+	border-radius: 80px;
+}
 
+.button5{
+	background-color: #FF0000;
+	font-size: 25px;
+	width: 240px;
+	height: 45px;
+	border-radius: 80px;
+}
+
+.button6{
+	background-color: #C22E28;
+	font-size: 25px;
+	width: 150px;
+	height: 45px;
+	border-radius: 80px;
+}
+
+.button7{
+	background-color: #02DFE4;
+	font-size: 25px;
+	width: 150px;
+	height: 45px;
+	border-radius: 80px;
+}
+
+.button8{
+    background-color: #FFC300;
+	font-size: 50px;
+	width: 500px;
+	height: 250px;
+	border-radius: 80px;
+}
+
+.button9{
+	background-color: #FF00FE;
+	font-size: 50px;
+	width: 500px;
+	height: 250px;
+	border-radius: 80px;
+}
 
 	
